@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @AlexanderPuhl
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning web development
 
 <!---
 AlexanderPuhl/AlexanderPuhl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
